@@ -4,7 +4,10 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>QuickWarm_up</RootNamespace>
-    <StartupObject>QuickWarm_up.HomeWork.work2.Test</StartupObject>
+	  <!--修改启动类 通过点号进行拼接
+	    有点要启动的类复制完整路径
+      -->
+    <StartupObject>QuickWarm_up.demo4.Demo</StartupObject>
   </PropertyGroup>
 
 </Project>
