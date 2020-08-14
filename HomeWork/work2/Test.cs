@@ -11,6 +11,8 @@ namespace QuickWarm_up.HomeWork.work2
             Bank bank = new Bank();
             bank.CreateUser();
             bank.Menu();
+            Console.WriteLine("陶老师很帅，掉渣的那种！");
+
         }
     }
 }
